@@ -1,0 +1,39 @@
+Index 0: Microsoft Sound Mapper - Input
+Index 1: Microphone (Logitech StreamCam)
+Index 2: CABLE Output (VB-Audio Virtual
+Index 3: Microphone (Blue Snowball )
+Index 4: Microsoft Sound Mapper - Output
+Index 5: Speakers (2- High Definition Au
+Index 6: CABLE Input (VB-Audio Virtual C
+Index 7: Digital Audio (S/PDIF) (2- High
+Index 8: C49HG9x (NVIDIA High Definition
+Index 9: Primary Sound Capture Driver
+Index 10: Microphone (Logitech StreamCam)
+Index 11: CABLE Output (VB-Audio Virtual Cable)
+Index 12: Microphone (Blue Snowball )
+Index 13: Primary Sound Driver
+Index 14: Speakers (2- High Definition Audio Device)
+Index 15: CABLE Input (VB-Audio Virtual Cable)
+Index 16: Digital Audio (S/PDIF) (2- High Definition Audio Device)
+Index 17: C49HG9x (NVIDIA High Definition Audio)
+Index 18: CABLE Input (VB-Audio Virtual Cable)
+Index 19: Digital Audio (S/PDIF) (2- High Definition Audio Device)
+Index 20: Speakers (2- High Definition Audio Device)
+Index 21: C49HG9x (NVIDIA High Definition Audio)
+Index 22: Microphone (Logitech StreamCam)
+Index 23: CABLE Output (VB-Audio Virtual Cable)
+Index 24: Microphone (Blue Snowball )
+Index 25: Output (NVIDIA High Definition Audio)
+Index 26: Speakers (HD Audio Speaker)
+Index 27: SPDIF Out (HD Audio SPDIF out)
+Index 29: Speakers (VB-Audio Point)
+Index 30: Headphones (SteelSeries_Sonar_VAD Media Wave Speaker)
+Index 31: Line Out (SteelSeries_Sonar_VAD Stream Wave)
+Index 32: SteelSeries Sonar - Stream (SteelSeries_Sonar_VAD Stream Wave)
+Index 33: Line Out (SteelSeries_Sonar_VAD Chat Capture Wave)
+Index 34: SteelSeries Sonar - Microphone (SteelSeries_Sonar_VAD Chat Capture Wave)
+Index 35: Output (SteelSeries_Sonar_VAD Chat Wave Speaker)
+Index 36: Headphones (SteelSeries_Sonar_VAD Aux Wave Speaker)
+Index 37: Headphones (SteelSeries_Sonar_VAD Game Wave Speaker)
+Index 38: Microphone (Blue Snowball)
+Index 39: Microphone (Logitech StreamCam)
