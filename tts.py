@@ -78,7 +78,7 @@ async def main():
     "Mermaid Man's old comic book collection has a hidden secret:...",
     "Barnacle Boy once bragged, 'I know something you don't...'",
     "The Bikini Bottom Chum Bucket's secret ingredient is something unexpected:...",
-    "The Flying Dutchman's treasure map has a hidden clue:.."
+    "The Flying Dutchman's treasure map has a hidden clue:..."
 ]
 
             file.write(fact)
